@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="128" width="128" viewBox="0 0 32 32" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<g id="body" style="stroke:AliceBlue;">
+// export module
+module.exports = function (tokenme, tokenid) {
+    return `<svg xmlns="http://www.w3.org/2000/svg" height="128" width="128" viewBox="0 0 32 32" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g id="body" style="stroke:${tokenme.skintone};">
 		<g id="feet">
 			<line x1="12" y1="31" x2="15" y2="31" />
 			<line x1="16" y1="31" x2="19" y2="31" />
@@ -91,4 +93,5 @@
             <line x1="17" y1="15" x2="18" y2="15" />
 		</g>
 	</g>
-</svg>
+</svg>`
+}

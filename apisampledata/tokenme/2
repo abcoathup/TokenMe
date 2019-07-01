@@ -1,12 +1,17 @@
-{
-  "attributes": [
-    {
-      "trait_type": "Era", 
-      "value": "Alpha"
-    }
-  ], 
-  "description": "Token Me.", 
-  "external_url": "https://github.com/abcoathup/tokenme", 
-  "image": "https://abcoathup.github.io/tokenme/apisampledata/tokenme/2.svg", 
-  "name": "Token Me"
-}
+
+  {
+    "attributes": [
+      {
+        "trait_type": "SkinTone", 
+        "value": "CornflowerBlue"
+      },
+      {
+        "trait_type": "Era", 
+        "value": "Testing"
+      }
+    ], 
+    "description": "Token Me.", 
+    "external_url": "https://github.com/abcoathup/tokenme", 
+    "image": "https://abcoathup.github.io/tokenme/apisampledata/tokenme/2.svg", 
+    "name": "Token Me"
+  }

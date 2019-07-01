@@ -1,0 +1,10 @@
+{
+    "tokens":[
+        {"era": "Beta", "skintone": "AliceBlue"},
+        {"era": "Beta", "skintone": "CornflowerBlue"},
+        {"era": "Beta", "skintone": "Aqua"},
+        {"era": "Beta", "skintone": "DarkGoldenRod"},
+        {"era": "Beta", "skintone": "Chartreuse"},
+        {"era": "Beta", "skintone": "SandyBrown"}
+    ]
+}

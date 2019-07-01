@@ -1,9 +1,11 @@
-
+// export module
+module.exports = function (tokenme, tokenid) {
+    return `
   {
     "attributes": [
       {
         "trait_type": "SkinTone", 
-        "value": "AliceBlue"
+        "value": "${tokenme.skintone}"
       },
       {
         "trait_type": "Era", 
@@ -12,6 +14,7 @@
     ], 
     "description": "Token Me.", 
     "external_url": "https://github.com/abcoathup/tokenme", 
-    "image": "https://abcoathup.github.io/tokenme/apisampledata/tokenme/1.svg", 
+    "image": "https://abcoathup.github.io/tokenme/apisampledata/tokenme/${tokenid}.svg", 
     "name": "Token Me"
-  }
+  }`
+}
