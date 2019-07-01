@@ -5,6 +5,9 @@
         {"era": "Beta", "skintone": "Aqua"},
         {"era": "Beta", "skintone": "DarkGoldenRod"},
         {"era": "Beta", "skintone": "Chartreuse"},
-        {"era": "Beta", "skintone": "SandyBrown"}
+        {"era": "Beta", "skintone": "SandyBrown"},
+        {"era": "Beta", "skintone": "Teal"},
+        {"era": "Beta", "skintone": "Thistle"},
+        {"era": "Beta", "skintone": "Yellow"}
     ]
 }

@@ -1,0 +1,17 @@
+
+  {
+    "attributes": [
+      {
+        "trait_type": "SkinTone", 
+        "value": "Thistle"
+      },
+      {
+        "trait_type": "Era", 
+        "value": "Testing"
+      }
+    ], 
+    "description": "Token Me.", 
+    "external_url": "https://github.com/abcoathup/tokenme", 
+    "image": "https://abcoathup.github.io/tokenme/apisampledata/tokenme/8.svg", 
+    "name": "Token Me"
+  }
